@@ -13,6 +13,7 @@ I've been writing code for about 8 years, and discovered way too many programmin
 
 <details>
   <summary>My coding history</summary>
+
 - **2026** - Discovered reverse engineering: nearly finished Root-Me's entire cracking category in two months alongside my 42 cursus. Forced myself to get comfortable with x86 ASM, then naturally drifted into binary exploitation.
 - **2025** - Built miniRT, my biggest C project: a full path tracer with GLSL compute shaders. Six months of work, and I'm genuinely proud of the renders.
 - **2024** - Did the 42 piscine. Discovered compiled languages, wrote a lot of terrible C, and met some great people.
